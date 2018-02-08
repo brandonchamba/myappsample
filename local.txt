@@ -1,0 +1,6 @@
+concepts: remote repo, local repo,log, 
+commands:
+push
+pull
+commit
+clone
